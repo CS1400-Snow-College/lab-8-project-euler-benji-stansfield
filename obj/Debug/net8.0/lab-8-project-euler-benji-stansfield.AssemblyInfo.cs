@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-8-project-euler-benji-stansfield")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1f5297807bebbadc18765adc2c7bc8fd87843e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f7e7737d596f6303b09b84159b960ad1a2eee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-8-project-euler-benji-stansfield")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-8-project-euler-benji-stansfield")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
